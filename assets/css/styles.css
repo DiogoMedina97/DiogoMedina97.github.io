@@ -1,0 +1,13 @@
+.alert {
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+}
+
+.alert h1,
+.alert h2 {
+    margin: 0;
+}
